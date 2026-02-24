@@ -102,7 +102,7 @@ python chatbot.py
 
 **Mayank Jaiswal**
 Diploma in Information Technology
-Python Developer (Beginner Level)
+Python Developer 
 
 ---
 
